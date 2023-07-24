@@ -1,0 +1,195 @@
+[
+  {
+    "college_name": "Fountainhead University",
+    "college_image": "https://www.naperville203.org/cms/lib/IL01904881/Centricity/Domain/9/20221110_085746.jpg",
+    "college_rating": 4.5,
+    "admission_date": "2023-09-01",
+    "research_count": 100,
+    "details": {
+      "events": [
+        {
+          "event_id": 1,
+          "event_name": "Annual Fest",
+          "event_date": "2024-02-15",
+          "event_description": "Join us for the exciting annual fest filled with music, dance, and more!"
+        },
+        {
+          "event_id": 2,
+          "event_name": "Tech Expo",
+          "event_date": "2024-04-10",
+          "event_description": "Explore the latest technological advancements in our annual tech expo."
+        }
+      ],
+      "sports_facilities": [
+        {
+          "facility_id": 1,
+          "facility_name": "Football Field",
+          "facility_type": "Outdoor",
+          "facility_description": "Enjoy playing football on our state-of-the-art outdoor field."
+        },
+        {
+          "facility_id": 2,
+          "facility_name": "Basketball Court",
+          "facility_type": "Indoor",
+          "facility_description": "Play basketball with your friends in our indoor court."
+        }
+      ]
+    }
+  },
+  {
+    "college_name": "Fountainhead University",
+    "college_image": "https://www.wfyi.org/files/wfyi/articles/original/school-slated-to-close.jpg",
+    "college_rating": 4.5,
+    "admission_date": "2023-09-01",
+    "research_count": 100,
+    "details_url": "https://example.com/college/1/details"
+  },
+  {
+    "college_name": "Harmony College",
+    "college_image": "https://images.unsplash.com/photo-1605470207062-b72b5cbe2a87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dWslMjB1bml2ZXJzaXR5fGVufDB8fDB8fHww&w=1000&q=80",
+    "college_rating": 4.7,
+    "admission_date": "2023-09-15",
+    "research_count": 150,
+    "details": {
+      "events": [
+        {
+          "event_id": 1,
+          "event_name": "Annual Fest",
+          "event_date": "2024-02-15",
+          "event_description": "Join us for the exciting annual fest filled with music, dance, and more!"
+        },
+        {
+          "event_id": 2,
+          "event_name": "Tech Expo",
+          "event_date": "2024-04-10",
+          "event_description": "Explore the latest technological advancements in our annual tech expo."
+        }
+      ],
+      "sports_facilities": [
+        {
+          "facility_id": 1,
+          "facility_name": "Football Field",
+          "facility_type": "Outdoor",
+          "facility_description": "Enjoy playing football on our state-of-the-art outdoor field."
+        },
+        {
+          "facility_id": 2,
+          "facility_name": "Basketball Court",
+          "facility_type": "Indoor",
+          "facility_description": "Play basketball with your friends in our indoor court."
+        }
+      ]
+    }
+  },
+  {
+    "college_name": "Cascade University",
+    "college_image": "https://media.istockphoto.com/id/517235492/photo/cambridge-university-top-view.jpg?s=612x612&w=0&k=20&c=iOn9Za59tR8HGemQznUuKaiXKmoc5oW-BukIjIqWzWc=",
+    "college_rating": 4.9,
+    "admission_date": "2023-10-05",
+    "research_count": 200,
+    "details": {
+      "events": [
+        {
+          "event_id": 1,
+          "event_name": "Annual Fest",
+          "event_date": "2024-02-15",
+          "event_description": "Join us for the exciting annual fest filled with music, dance, and more!"
+        },
+        {
+          "event_id": 2,
+          "event_name": "Tech Expo",
+          "event_date": "2024-04-10",
+          "event_description": "Explore the latest technological advancements in our annual tech expo."
+        }
+      ],
+      "sports_facilities": [
+        {
+          "facility_id": 1,
+          "facility_name": "Football Field",
+          "facility_type": "Outdoor",
+          "facility_description": "Enjoy playing football on our state-of-the-art outdoor field."
+        },
+        {
+          "facility_id": 2,
+          "facility_name": "Basketball Court",
+          "facility_type": "Indoor",
+          "facility_description": "Play basketball with your friends in our indoor court."
+        }
+      ]
+    }
+  },
+  {
+    "college_name": "Zenith College",
+    "college_image": "https://www.lucy.cam.ac.uk/sites/default/files/styles/1200x700_scale_and_crop/public/news-images/Cambridge.png?itok=OKjJn9-F",
+    "college_rating": 4.4,
+    "admission_date": "2023-08-25",
+    "research_count": 90,
+    "details": {
+      "events": [
+        {
+          "event_id": 1,
+          "event_name": "Annual Fest",
+          "event_date": "2024-02-15",
+          "event_description": "Join us for the exciting annual fest filled with music, dance, and more!"
+        },
+        {
+          "event_id": 2,
+          "event_name": "Tech Expo",
+          "event_date": "2024-04-10",
+          "event_description": "Explore the latest technological advancements in our annual tech expo."
+        }
+      ],
+      "sports_facilities": [
+        {
+          "facility_id": 1,
+          "facility_name": "Football Field",
+          "facility_type": "Outdoor",
+          "facility_description": "Enjoy playing football on our state-of-the-art outdoor field."
+        },
+        {
+          "facility_id": 2,
+          "facility_name": "Basketball Court",
+          "facility_type": "Indoor",
+          "facility_description": "Play basketball with your friends in our indoor court."
+        }
+      ]
+    }
+  },
+  {
+    "college_name": "Tranquil University",
+    "college_image": "https://www.elmhurst.edu/wp-content/uploads/2020/07/elmhurst-university-gates-v3-hero-image.jpg",
+    "college_rating": 4.6,
+    "admission_date": "2023-09-10",
+    "research_count": 120,
+    "details": {
+      "events": [
+        {
+          "event_id": 1,
+          "event_name": "Annual Fest",
+          "event_date": "2024-02-15",
+          "event_description": "Join us for the exciting annual fest filled with music, dance, and more!"
+        },
+        {
+          "event_id": 2,
+          "event_name": "Tech Expo",
+          "event_date": "2024-04-10",
+          "event_description": "Explore the latest technological advancements in our annual tech expo."
+        }
+      ],
+      "sports_facilities": [
+        {
+          "facility_id": 1,
+          "facility_name": "Football Field",
+          "facility_type": "Outdoor",
+          "facility_description": "Enjoy playing football on our state-of-the-art outdoor field."
+        },
+        {
+          "facility_id": 2,
+          "facility_name": "Basketball Court",
+          "facility_type": "Indoor",
+          "facility_description": "Play basketball with your friends in our indoor court."
+        }
+      ]
+    }
+  }
+]
